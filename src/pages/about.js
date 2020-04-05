@@ -9,7 +9,7 @@ const AboutPage = ()=> {
         <Layout>
             <h1>About</h1>
             <p>
-                I'm a senior at Boston College studying business analytics and Marketing. 
+                I'm a senior at Boston College studying business analytics and marketing. 
                 <p>More importantly... I make a mean quesadilla.</p>
             </p>
             <p>
