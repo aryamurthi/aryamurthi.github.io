@@ -8,7 +8,7 @@ const ContactPage = () => {
         <Layout>
             <h1>Contact</h1>
             <p>
-                Check out my LinkedIn page <a href= "https://www.linkedin.com/in/arya-murthi/" target="_blank"> here</a>.
+                Add me on  <a href= "https://www.linkedin.com/in/arya-murthi/" target="_blank"> LinkedIn</a>. You wont.
             </p>
         </Layout>
     )

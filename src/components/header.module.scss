@@ -7,6 +7,14 @@
     color: #000000;
     font-size: 3rem;
     text-decoration: none;
+    text-shadow: 2px 2px #666666;
+
+}
+.title:hover {
+    color: #530a7e;
+}
+.title:active{
+    color: red;
 }
 
 .navList {
@@ -16,11 +24,19 @@
 }
 
 .navItem {
-    color: rgb(160, 72, 0);
+    color: rgb(204, 123, 17);
     font-size: .9rem;
     margin-right: 1.3rem;
     text-decoration: none;
+    font-weight: bold;
+    text-shadow: 1px 1px #666666;
 
 }
 
+.navItem:hover {
+    color: #530a7e
+}
 
+.navItem:active {
+color: red;
+}
